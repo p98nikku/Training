@@ -1,3 +1,4 @@
+//COUNTER FUNCTION
 function add()
 {
     let count=1;
