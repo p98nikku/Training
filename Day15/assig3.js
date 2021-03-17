@@ -1,3 +1,4 @@
+//New.target 
 if(!new.target)
 {
     console.log('error');
