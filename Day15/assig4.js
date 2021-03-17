@@ -1,3 +1,4 @@
+//Prototype function
 function Product(title,price)
 {
     this.title=title;
