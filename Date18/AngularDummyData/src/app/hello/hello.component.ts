@@ -6,6 +6,7 @@ import { product } from '../products';
   templateUrl: './hello.component.html',
   styleUrls: ['./hello.component.css']
 })
+
 export class HelloComponent implements OnInit {
   
   products: product[]=[];
@@ -18,44 +19,44 @@ export class HelloComponent implements OnInit {
   getproducts(): product[]{
     return[
       {
-        Id :1,
-        Title:"Bat",
-        Color :"English Willow",
+        Bleach :1,
+        Facepack:"Strawberry",
+        Eyecream :"Garnier",
         ExpiryDate : "1-1-2050",
         Price : 4999,
       },
       {
-        Id :2,
-        Title:"Ball",
-        Color :"SG Club",
+        Bleach :2,
+        Facepack:"Chocolate",
+        Eyecream :"Mama earth",
         ExpiryDate : "1-1-2025",
         Price : 1200
       },
       {
-        Id :3,
-        Title:"Batting Pads",
-        Color :"SS",
+        Bleach :3,
+        Facepack:"Fruit",
+        Eyecream :"Nivea",
         ExpiryDate : "1-1-2030",
         Price : 3600
       },
       {
-        Id :4,
-        Title:"Kitbag",
-        Color :"SG Maxipack",
+        Bleach :4,
+        Facepack:"Papaya",
+        Eyecream :"Loreal",
         ExpiryDate : "1-1-2050",
         Price : 12000
       },
       {
-        Id :5,
-        Title:"Batting Gloves",
-        Color :"New Balance",
+        Bleach :5,
+        Facepack:"Gold",
+        Eyecream :"Colorbar",
         ExpiryDate : "1-1-2035",
         Price : 2200
       },
       {
-        Id :6,
-        Title:"Batting Helmet",
-        Color :"Masuri",
+        Bleach :6,
+        Facepack:"Diamond",
+        Eyecream :"Faceshop",
         ExpiryDate : "1-1-2040",
         Price : 3000
       },
