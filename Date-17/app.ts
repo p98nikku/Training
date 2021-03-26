@@ -1,3 +1,4 @@
+//typescript
 // //import {Product} from "./product";
  
 // // function getProduct(){
