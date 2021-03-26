@@ -1,4 +1,5 @@
-﻿using System;
+﻿//c# day3
+using System;
 using System.Collections.Generic;
 using System.Text;
 
