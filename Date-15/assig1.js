@@ -1,4 +1,4 @@
-//USER TEST CASES
+//USER TEST cases
 function add(num1,num2, ...ep)
 {
     let res=num1+num2;
