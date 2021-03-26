@@ -1,0 +1,13 @@
+C:\Users\S S INFOTECH\source\repos\AssignLembda\AssignLembda\obj\Debug\netcoreapp3.1\AssignLembda.csprojAssemblyReference.cache
+C:\Users\S S INFOTECH\source\repos\AssignLembda\AssignLembda\obj\Debug\netcoreapp3.1\AssignLembda.AssemblyInfoInputs.cache
+C:\Users\S S INFOTECH\source\repos\AssignLembda\AssignLembda\obj\Debug\netcoreapp3.1\AssignLembda.AssemblyInfo.cs
+C:\Users\S S INFOTECH\source\repos\AssignLembda\AssignLembda\obj\Debug\netcoreapp3.1\AssignLembda.csproj.CoreCompileInputs.cache
+C:\Users\S S INFOTECH\source\repos\AssignLembda\AssignLembda\bin\Debug\netcoreapp3.1\AssignLembda.exe
+C:\Users\S S INFOTECH\source\repos\AssignLembda\AssignLembda\bin\Debug\netcoreapp3.1\AssignLembda.deps.json
+C:\Users\S S INFOTECH\source\repos\AssignLembda\AssignLembda\bin\Debug\netcoreapp3.1\AssignLembda.runtimeconfig.json
+C:\Users\S S INFOTECH\source\repos\AssignLembda\AssignLembda\bin\Debug\netcoreapp3.1\AssignLembda.runtimeconfig.dev.json
+C:\Users\S S INFOTECH\source\repos\AssignLembda\AssignLembda\bin\Debug\netcoreapp3.1\AssignLembda.dll
+C:\Users\S S INFOTECH\source\repos\AssignLembda\AssignLembda\bin\Debug\netcoreapp3.1\AssignLembda.pdb
+C:\Users\S S INFOTECH\source\repos\AssignLembda\AssignLembda\obj\Debug\netcoreapp3.1\AssignLembda.dll
+C:\Users\S S INFOTECH\source\repos\AssignLembda\AssignLembda\obj\Debug\netcoreapp3.1\AssignLembda.pdb
+C:\Users\S S INFOTECH\source\repos\AssignLembda\AssignLembda\obj\Debug\netcoreapp3.1\AssignLembda.genruntimeconfig.cache
