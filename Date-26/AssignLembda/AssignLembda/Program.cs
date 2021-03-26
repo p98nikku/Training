@@ -1,4 +1,5 @@
-﻿using System;
+﻿//c#
+using System;
 using System.Linq;
 
 namespace AssignLembda
