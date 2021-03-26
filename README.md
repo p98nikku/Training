@@ -1,3 +1,3 @@
 # Training
 
-This repository contains all the projects and files uploaded one daily basis for the training.
+This repository contains all the projects and files uploaded on daily basis for the training.
